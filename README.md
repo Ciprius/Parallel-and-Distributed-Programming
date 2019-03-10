@@ -27,6 +27,11 @@ Lab 4 problem statement :
 Parallelize the multiplication of 3 matrices. Use a configurable number of threads to do one matrix multiplication. Then, use another set of threads to do the second multiplication. The threads in the second set should start as soon as they start having data from the first multiplication result.
 
 
+Lab 5 problem statement :
+
+Write a program that is capable of simultaneously downloading several files through HTTP. Use directly the BeginConnect()/EndConnect(), BeginSend()/EndSend() and BeginReceive()/EndReceive() Socket functions, and write a simple parser for the HTTP protocol (it should be able only to get the header lines and to understand the Content-lenght: header line).
+
+
 Lab 6 problem statement : 
 
 Perform the multiplication of 2 polynomials. Use both the regular O(n2) algorithm and the Karatsuba algorithm, and each in both the sequencial form and a parallelized form. Compare the 4 variants.
@@ -42,3 +47,8 @@ Lab 7 problem statement :
 Lab 8 problem statement :
 
 Given a directed graph, find a Hamiltonean cycle, if one exists. Use multiple threads to parallelize the search.
+
+
+Lab 9 problem statement :
+
+Perform the multiplication of 2 polynomials, by distributing computation across several nodes using MPI. Use both the regular O(n2) algorithm and the Karatsuba algorithm. Compare the performance with the "regular" CPU implementation from lab 5.
