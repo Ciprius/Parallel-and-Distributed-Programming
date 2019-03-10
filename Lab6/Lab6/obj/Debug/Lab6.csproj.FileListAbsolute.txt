@@ -1,0 +1,7 @@
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab6\Lab6\obj\Debug\Lab6.pdb
