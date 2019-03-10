@@ -1,0 +1,10 @@
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
