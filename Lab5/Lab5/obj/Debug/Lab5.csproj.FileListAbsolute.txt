@@ -1,0 +1,7 @@
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab5\Lab5\obj\Debug\Lab5.pdb
