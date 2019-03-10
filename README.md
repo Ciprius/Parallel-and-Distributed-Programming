@@ -10,3 +10,8 @@ We have concurrently run transfer operations, to be executer on multiple threads
 From time to time, as well as at the end of the program, a consistency check shall be executed. It shall verify that the amount of money in each account corresponds with the operations records associated to that account, and also that all operations on each account appear also in the logs of the source or destination of the transfer.
 
 
+Lab 2 problem statement :
+
+Divide a simple task between threads. The task can easily be divided in sub-tasks requiring no cooperation at all. See the effects of false sharing, and the costs of creating threads and of switching between threads.
+Requirement: write two problems: one for computing the sum of two matrices, the other for computing the product of two matrices.
+Divide the task between a configured number of threads (going from 1 to the number of elements in the resulting matrix). See the effects on the execution time.
