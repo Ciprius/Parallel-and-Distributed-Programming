@@ -1,0 +1,11 @@
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab9_Csharp\Lab9_Csharp\bin\Debug\Lab9_Csharp.exe.config
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab9_Csharp\Lab9_Csharp\bin\Debug\Lab9_Csharp.exe
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab9_Csharp\Lab9_Csharp\bin\Debug\Lab9_Csharp.pdb
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab9_Csharp\Lab9_Csharp\bin\Debug\MPI.dll
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab9_Csharp\Lab9_Csharp\bin\Debug\MPIUtils.dll
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab9_Csharp\Lab9_Csharp\bin\Debug\MPI.xml
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab9_Csharp\Lab9_Csharp\obj\Debug\Lab9_Csharp.csproj.CoreCompileInputs.cache
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab9_Csharp\Lab9_Csharp\obj\Debug\Lab9_Csharp.csproj.CopyComplete
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab9_Csharp\Lab9_Csharp\obj\Debug\Lab9_Csharp.exe
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab9_Csharp\Lab9_Csharp\obj\Debug\Lab9_Csharp.pdb
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab9_Csharp\Lab9_Csharp\obj\Debug\Lab9_Csharp.csprojResolveAssemblyReference.cache
