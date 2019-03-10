@@ -1,0 +1,7 @@
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab7\Lab7\bin\Debug\Lab7.exe.config
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab7\Lab7\bin\Debug\Lab7.exe
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab7\Lab7\bin\Debug\Lab7.pdb
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab7\Lab7\obj\Debug\Lab7.csprojResolveAssemblyReference.cache
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab7\Lab7\obj\Debug\Lab7.exe
+D:\Faculta\An III\Semestru_1\Programare paralela si distribuita\Lab7\Lab7\obj\Debug\Lab7.pdb
